@@ -1,2 +1,2 @@
-# Ardu-no
+# Arduino
 Arduino Projects
